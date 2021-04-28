@@ -3,15 +3,16 @@ table, th, td {
 }
 
 .board {
+    table-layout: fixed;
     width: 50%;
-    height: 600;
     margin-left: auto;
     margin-right: auto;
 }
 
 .square {
     width: 20%;
-    height: 20%;
+    height: 100px;
+    overflow: hidden;
     text-align:center;
 }
 
