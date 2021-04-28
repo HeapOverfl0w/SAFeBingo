@@ -1,0 +1,24 @@
+table, th, td {
+    border: 1px solid darkblue;
+}
+
+.board {
+    width: 50%;
+    height: 600;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.square {
+    width: 20%;
+    height: 20%;
+    text-align:center;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10;
+    width: 40%;
+}

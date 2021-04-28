@@ -1,0 +1,26 @@
+Release Train
+Stakeholders
+Spike User Story
+Decompose
+Someone confuses Increment for Iteration or vise versa
+"Whatever the team wants to do"
+Dead silence on meeting for 10 seconds+
+Cross-Functional
+Self-Organizing
+Timebox
+Ceremonies
+Grooming
+Refinement
+Lean
+Continuous Integration
+Acceptance Criteria
+Enabler
+Feature
+RTE
+Scaled Agile Framework
+Vision
+Metrics
+Someone story points something not using fibonacci
+
+
+
